@@ -32,6 +32,6 @@ OPENAI_API_KEY=
 
 初次安裝好Git請透過終端機輸入以下指令：
 ```
-git config --global user.name 你的使用者名稱
-git config --global user.email 你的Email
+git config --global user.name amyni
+git config --global user.email amyni90071@gmail.com
 ```
